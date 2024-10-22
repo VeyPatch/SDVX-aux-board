@@ -25,3 +25,5 @@ SDVX-aux-board-backups/
 # Exported BOM files
 *.xml
 *.csv
+
+gerbers/
